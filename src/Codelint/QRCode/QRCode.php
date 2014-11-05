@@ -8,7 +8,7 @@
  * @author Ray.Zhang <codelint@foxmail.com>
  **/
 
-class QRCode extends \QRCode {
+class QRCode{
 
     static function load_qrlib()
     {

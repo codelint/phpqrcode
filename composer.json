@@ -2,7 +2,7 @@
     "name": "codelint/phpqrcode",
     "description": "a php library to generate qrcode",
     "keywords": ["qr", "qrcode", "two-dimensional", "library", "tool"],
-    "license": "MIT",
+    "license": "GNU",
     "authors": [
         {
             "name": "codelint",

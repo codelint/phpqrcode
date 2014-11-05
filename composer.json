@@ -1,0 +1,20 @@
+{
+    "name": "codelint/phpqrcode",
+    "description": "a php library to generate qrcode",
+    "keywords": ["qr", "qrcode", "two-dimensional", "library", "tool"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "codelint",
+            "email": "codelint@foxmail.com",
+            "homepage": "http://www.inotseeyou.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "Codelint\\": ["src/"]
+        }
+    }
+}
